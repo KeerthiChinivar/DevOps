@@ -1,0 +1,17 @@
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/DevOps.dll
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/DevOps.pdb
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Core.dll
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Core.xml
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/obj/Debug/DevOps.csprojResolveAssemblyReference.cache
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/obj/Debug/DevOps.csproj.CoreCompileInputs.cache
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/obj/Debug/DevOps.App.xaml.g.cs
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/obj/Debug/DevOps.DevOpsPage.xaml.g.cs
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/obj/Debug/DevOps.dll
+/Users/kchinivar001/Documents/Xamarin/DevOps/DevOps/obj/Debug/DevOps.pdb
